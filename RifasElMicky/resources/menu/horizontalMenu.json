@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "page-2",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "name": "Config Rifa",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "pages/misc-error",
+      "name": "Boletos",
+      "icon": "menu-icon tf-icons ti ti-alert-triangle",
+      "slug": "pages-misc-error",
+      "target": "_blank"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Inicio",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "page-2",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "name": "Boletos",
+      "slug": "pages-page-2"
+    },
+    {
+      "name": "Configuración",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard",
+      "submenu": [
+        {
+          "url": "/rifas",
+          "name": "Rifa",
+          "slug": "dashboard-analytics"
+        }
+      ]
+    }
+  ]
+}
